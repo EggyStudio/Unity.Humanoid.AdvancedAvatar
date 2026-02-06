@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.daz3dgenesis9",
+  "name": "com.unityessentials.genesis9",
   "version": "1.0.0",
-  "displayName": "Unity Humanoid Daz3DGenesis9",
+  "displayName": "Unity Humanoid Genesis9",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": null,
